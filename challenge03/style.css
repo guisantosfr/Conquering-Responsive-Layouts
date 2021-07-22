@@ -1,0 +1,48 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: #23424A;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.content{
+  width: 60%;
+  max-width: 700px;
+  margin: 20vh 10vw;
+}
+
+.content__title{
+  font-weight: bolder;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.content__text{
+  font-size: 1.2rem;
+}
+
+.cta{
+  width: 50%;
+}
+
+.btn{
+  font-size: 1em;
+  border: none;
+  background: #38CFD9;
+  color: #23424A;
+  border-radius: 25px;
+  font-size: 1rem;
+  padding: 1em 2em;
+  margin-top: 2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.btn:hover{
+
+}
