@@ -21,5 +21,8 @@ This repo tracks the progress and general tips from 'Conquering Responsive Layou
 * **vw** and **vh** (viewport width and height, respectively) are units related to the screen size.
 * These units are particularly useful for proportional titles, padding and margins, for example.
 
-## Day 5
-* Practice Time.
+## Days 5, 6 and 7
+* Practice Time, review of the week and solution to the challenge
+
+# Day 8
+* Some flex properties and flexbox challenge 01
