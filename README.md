@@ -34,4 +34,7 @@ This repo tracks the progress and general tips from 'Conquering Responsive Layou
 * **max-width** of 100% can make every image responsive
 
 ## Day 10
-* Solving Flexbox challenge 02 + some extra optional content
+* Flexbox challenge 02 + some extra optional content
+
+## Day 11
+* Flexbox challenge 03
