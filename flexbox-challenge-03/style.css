@@ -63,16 +63,28 @@ header {
     padding: 1em 0;
 }
 
+.logo{
+    margin-right: 1em;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
 .nav__list {
+    font-size: .9rem;
     margin: 0;
     padding: 0;
     list-style: none;
 
     display: flex;
+    align-items: center;
 }
 
-.nav__item{
-    margin-right: 1em;
+.nav__item + .nav__item{
+    margin-left: 1em;
 }
 
 .nav__link {

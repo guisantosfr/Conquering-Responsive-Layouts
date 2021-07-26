@@ -38,3 +38,9 @@ This repo tracks the progress and general tips from 'Conquering Responsive Layou
 
 ## Day 11
 * Flexbox challenge 03
+
+## Day 12
+* Tricks to fancier up the navigation bar
+
+## Days 13 and 14
+* Flexbox challenge 04 + Break Time!
