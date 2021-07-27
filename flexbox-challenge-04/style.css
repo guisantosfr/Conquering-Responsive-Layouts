@@ -27,9 +27,56 @@ body {
 
 .col {
   width: 100%;
+  margin: 1em;
+}
+
+h1, h2{
+  font-family: 'Playfair Display', serif;
+}
+
+h3, p{
+  font-family: 'Roboto', sans-serif;
+}
+
+p{
+  font-size: 1.375rem;
+}
+
+img{
+  max-width: 100%;
 }
 
 /* Sections */
 .hero{
+  min-height: 660px;
+  background-color: var(--cream);
+}
 
+.primary-title{
+  color: var(--brown);
+  font-size: 3.75rem;
+}
+
+.secondary-title{
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.text-section__title{
+  text-align: center;
+  font-size: 2.25rem;
+  color: var(--brown);
+}
+
+.image-section{
+  color: white;
+  padding: 2em 0;
+}
+
+.image-section--black{
+  background-color: var(--black);
+}
+
+.image-section--brown{
+  background-color: var(--brown);
 }
