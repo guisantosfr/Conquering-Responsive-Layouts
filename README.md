@@ -1,5 +1,7 @@
 # Conquering Responsive Layouts
 
+![Conquering Responsive Layouts image](https://d31ezp3r8jwmks.cloudfront.net/gjQ6wqLoXSviuBRJPa3PXUPi)
+
 This repo tracks the progress and general tips from 'Conquering Responsive Layouts' tutorial, by Kevin Powell.
 
 <hr>
@@ -31,16 +33,26 @@ This repo tracks the progress and general tips from 'Conquering Responsive Layou
 * Including images in Flexbox may cause an issue. The image can stretch. **align-items** and **align-self** can solve it.
 * **justify-content** can solve another position problems. It'a property that can be used to control the empty space in a flex container.
 * In order to **justify-content** to work, the sum of the widths of flex items needs to be less than 100%.
-* **max-width** of 100% can make every image responsive
+* **max-width** of 100% can make every image responsive.
 
 ## Day 10
-* Flexbox challenge 02 + some extra optional content
+* Flexbox challenge 02 + some extra optional content.
 
 ## Day 11
-* Flexbox challenge 03
+* Flexbox challenge 03.
 
 ## Day 12
-* Tricks to fancier up the navigation bar
+* Tricks to fancier up the navigation bar.
 
 ## Days 13 and 14
-* Flexbox challenge 04 + Break Time!
+* Flexbox challenge 04 + Break Time!.
+
+## Days 15 and 16
+* **Media Queries** allow us to overwrite some styles based on some conditions, generally the screen width.
+* There are two approaches related to media queries: **Mobile-first** and **Desktop-first**.
+* The order of media queries matter, so they can overwrite each other. In case of min-width, the order is to smallest to greatest.
+* Keep the media queries to a minimum possible, to make the CSS easier to mantain.
+
+## Day 17
+* The meta viewport tag is very important. It ensures the website is going to be responsive the way you want it be.
+* The tag is `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
