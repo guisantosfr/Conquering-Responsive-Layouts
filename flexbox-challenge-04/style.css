@@ -3,11 +3,16 @@
   color: var(--brown);
   text-align: center;
   padding: 12em 0;
+  min-height: 660px;
+
+  display: flex;
+  align-items: center;
 }
 
 .container {
   width: 85%;
   margin: 0 auto;
+  max-width: 1128px;
 }
 
 .primary-title{
@@ -17,7 +22,7 @@
 .secondary-title{
   text-transform: uppercase;
   color: var(--black);
-  letter-spacing: 10px;
+  letter-spacing: 8px;
   margin: 0;
 }
 
@@ -46,14 +51,17 @@
   background-color: var(--brown);
 }
 
-/*
-.row {
-  display: flex;
-  justify-content: space-between;
-}
+@media (min-width: 700px){
+  .row {
+    display: flex;
+  }
 
-.col {
-  width: 100%;
-  margin: 1em;
+  .col {
+    width: 100%;
+    margin: 0 1em;
+  }
+
+  .primary-title{
+    font-size: 3.25rem;
+  }
 }
-*/

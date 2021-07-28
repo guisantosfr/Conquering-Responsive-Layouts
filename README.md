@@ -60,3 +60,6 @@ This repo tracks the progress and general tips from 'Conquering Responsive Layou
 ## Day 18
 * Don't do layout things at first. Initially, it's better to focus in global styles and basic styles, such as tipography, colors, spacing, etc.
 * The major advantage of mobile-first is that you don't have to worry so much about layout.
+
+# Day 19
+* Avoid lines of text that go all the way across the screen
