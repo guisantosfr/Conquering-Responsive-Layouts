@@ -33,7 +33,7 @@ This repo tracks the progress and general tips from 'Conquering Responsive Layou
 * Including images in Flexbox may cause an issue. The image can stretch. **align-items** and **align-self** can solve it.
 * **justify-content** can solve another position problems. It'a property that can be used to control the empty space in a flex container.
 * In order to **justify-content** to work, the sum of the widths of flex items needs to be less than 100%.
-* **max-width** of 100% can make every image responsive.
+* **max-width** of 100% can make every image responsive, and ensure it will never be bigger than its original size.
 
 ## Day 10
 * Flexbox challenge 02 + some extra optional content.
@@ -56,3 +56,7 @@ This repo tracks the progress and general tips from 'Conquering Responsive Layou
 ## Day 17
 * The meta viewport tag is very important. It ensures the website is going to be responsive the way you want it be.
 * The tag is `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+
+## Day 18
+* Don't do layout things at first. Initially, it's better to focus in global styles and basic styles, such as tipography, colors, spacing, etc.
+* The major advantage of mobile-first is that you don't have to worry so much about layout.

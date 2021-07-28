@@ -1,0 +1,32 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+:root{
+  --cream: #F3EED9;
+  --brown: #824936;
+  --black: #222C2A;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.3rem;
+  line-height: 1.6;
+  color: var(--black);
+}
+
+img{
+  max-width: 100%;
+}
+
+h1, h2{
+  margin-top: 0;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+}
+
+section{
+  padding: 3em 0;
+}
