@@ -63,3 +63,6 @@ This repo tracks the progress and general tips from 'Conquering Responsive Layou
 
 # Day 19
 * Avoid lines of text that go all the way across the screen
+
+# Day 20
+* Navigation challenge
