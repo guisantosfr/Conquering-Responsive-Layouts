@@ -2,7 +2,7 @@
 
 ![Conquering Responsive Layouts image](https://d31ezp3r8jwmks.cloudfront.net/gjQ6wqLoXSviuBRJPa3PXUPi)
 
-This repo tracks the progress and general tips from 'Conquering Responsive Layouts' tutorial, by Kevin Powell.
+This repo tracks the progress and general tips from [**Conquering Responsive Layouts**](https://courses.kevinpowell.co/courses/conquering-responsive-layouts) tutorial, by [Kevin Powell](https://youtube.com/kevinpowell)
 
 <hr>
 
@@ -65,4 +65,7 @@ This repo tracks the progress and general tips from 'Conquering Responsive Layou
 * Avoid lines of text that go all the way across the screen
 
 # Day 20
-* Navigation challenge
+* Navigation challenge - Adapting navbar to mobile-first workflow
+
+# Day 21
+* Final challenge (without video solution)
